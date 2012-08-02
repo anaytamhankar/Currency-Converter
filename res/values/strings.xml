@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="load_currencydata">Loading Currency Data...</string>
+    <string name="timestamp">Rates last updated on : </string>
+    <string name="convert">Convert</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="ok">Ok</string>
+    <string name="warning">Network Error</string>
+    <string name="alert_dialog_warning">Could not load currency data</string>
+    <string name="fromPrompt">Select Currency</string>
+    <string name="toPrompt">Select Currency</string>
+    <string name="select_currency">Please select currency</string>
+    <string name="reset">Reset</string>
+    <string name="validation_error">Please enter amount</string>
+    <string name="conversion_error">Error occured while converting data</string>
+</resources>
